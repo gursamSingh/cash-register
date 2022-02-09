@@ -1,10 +1,29 @@
 *{
-    
+    text-align: center;
+}
+
+body{
+    max-width: 500px;
+    margin: auto;
 }
 
 
 .container{
     display: flex;
     flex-direction: column;
-    width: 50vw;
+    background-color: #fbbf24;
+    margin: auto;
+    
+}
+
+.container .heading{
+
+}
+
+.bill-amount{
+    width: 40%;
+}
+
+.container #check-button{
+
 }
